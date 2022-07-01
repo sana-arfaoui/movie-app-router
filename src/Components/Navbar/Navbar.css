@@ -1,0 +1,13 @@
+.Navbar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin-bottom: 20px;
+    background-color: black;
+    
+}
+
+.title{
+    color: white;
+}

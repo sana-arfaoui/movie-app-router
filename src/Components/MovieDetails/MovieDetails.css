@@ -1,0 +1,27 @@
+.details{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 10px;
+    margin: 20px;
+    font-weight: bold;
+    
+   
+}
+h1{
+    text-align: center;
+    margin: 20px auto;
+    color:red;
+}
+
+.lien{
+    float: right;
+    margin-right: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 5px;
+    padding: 0 auto;
+    text-align: center;
+    color: white;
+}
